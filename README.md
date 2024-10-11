@@ -18,6 +18,8 @@ The ESP32-CAM is popular for making DIY security cameras, face detection and rec
 5 PWM Support: You can control motor speed using Pulse Width Modulation (PWM) signals.
 
 6 Built-in Heat Sink: To dissipate heat during prolonged use.
+
 <p align="center">
   <img src="ca.jpg" width="50%">
 </p><br>
+
